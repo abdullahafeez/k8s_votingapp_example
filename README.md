@@ -5,6 +5,7 @@ This is based on the original [example-voting-app](https://github.com/dockersamp
 and modified it to work on the Kubernetes cluster.
 
 ## To deploy follow these steps:
+kubectl create -f filename
 1. voting-app-deploy.yaml
 2. voting-app-service.yaml
 3. result-app-deploy.yaml
@@ -15,8 +16,5 @@ and modified it to work on the Kubernetes cluster.
 8. redis-service.yaml
 9. worker-app-deploy.yaml
 
-## kubectl create -f filename
-
 ## Output
-![image](https://github.com/abdullahafeez/k8s_votingapp_example/assets/123733124/31a322ee-94d2-48a2-a2a8-e012dc8a8044)
-
+![image](https://github.com/abdullahafeez/k8s_votingapp_example/assets/123733124/746403c7-24a1-4bd8-8374-c5c6595d1276)
