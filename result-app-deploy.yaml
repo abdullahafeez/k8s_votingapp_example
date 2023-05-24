@@ -21,6 +21,6 @@ spec:
     spec:
       containers:
       - name: result-app
-        image: abdullahhafeez//examplevotingapp_result
+        image: abdullahhafeez/examplevotingapp_result
         ports:
         - containerPort: 80
