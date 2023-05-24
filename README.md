@@ -16,5 +16,10 @@ kubectl create -f filename
 8. redis-service.yaml
 9. worker-app-deploy.yaml
 
+## To get url when running minikube,use following commands
+minikube service result-service --url
+
+minikube service voting-service --url
+
 ## Output
 ![image](https://github.com/abdullahafeez/k8s_votingapp_example/assets/123733124/746403c7-24a1-4bd8-8374-c5c6595d1276)
