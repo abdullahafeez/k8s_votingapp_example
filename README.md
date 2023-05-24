@@ -18,4 +18,5 @@ and modified it to work on the Kubernetes cluster.
 ## kubectl create -f filename
 
 ## Output
-![image](https://github.com/abdullahafeez/k8s_votingapp_example/assets/123733124/cc89dc9b-38b0-4a3d-b58d-df21250d50a9)
+![image](https://github.com/abdullahafeez/k8s_votingapp_example/assets/123733124/31a322ee-94d2-48a2-a2a8-e012dc8a8044)
+
